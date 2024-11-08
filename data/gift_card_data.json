@@ -1,0 +1,274 @@
+{
+  "businesses": [
+    {
+      "name": "7/11",
+      "discount": 2.5,
+      "description": "Convenience store chain offering snacks, drinks, and basic necessities"
+    },
+    {
+      "name": "Accor Hotels",
+      "discount": 8.0,
+      "description": "Global hotel chain operating luxury and mid-range accommodation"
+    },
+    {
+      "name": "Adrenaline",
+      "discount": 10.0,
+      "description": "Adventure experiences and extreme sports booking platform"
+    },
+    {
+      "name": "Airbnb",
+      "discount": 5.0,
+      "description": "Vacation rental and accommodation booking platform"
+    },
+    {
+      "name": "Amart Furniture",
+      "discount": 10.0,
+      "description": "Retail furniture store offering home furnishings and decor"
+    },
+    {
+      "name": "Amazon",
+      "discount": 2.5,
+      "description": "Online marketplace offering wide range of products and services"
+    },
+    {
+      "name": "AmpolCash",
+      "discount": 5.0,
+      "description": "Fuel and convenience store chain formerly known as Caltex"
+    },
+    {
+      "name": "Angus and Coote",
+      "discount": 5.0,
+      "description": "Jewelry retailer specializing in fine jewelry and watches"
+    },
+    {
+      "name": "Apple Store",
+      "discount": 5.0,
+      "description": "Technology retailer selling Apple devices and accessories"
+    },
+    {
+      "name": "Autobarn",
+      "discount": 7.0,
+      "description": "Auto parts and accessories retailer for car enthusiasts"
+    },
+    {
+      "name": "Barbeques Galore",
+      "discount": 7.5,
+      "description": "Specialty retailer for BBQs, outdoor cooking and furniture"
+    },
+    {
+      "name": "BCF",
+      "discount": 7.5,
+      "description": "Outdoor recreation retailer for boating, camping, and fishing gear"
+    },
+    {
+      "name": "Betta Home Living",
+      "discount": 5.0,
+      "description": "Home appliances and electronics retailer"
+    },
+    {
+      "name": "Big W",
+      "discount": 5.0,
+      "description": "Discount department store offering variety of household items"
+    },
+    {
+      "name": "Bobbi Brown",
+      "discount": 7.0,
+      "description": "Premium cosmetics and makeup brand"
+    },
+    {
+      "name": "Bonds",
+      "discount": 6.0,
+      "description": "Australian clothing brand specializing in underwear and basics"
+    },
+    {
+      "name": "Boutique Wine and Champagne",
+      "discount": 10.0,
+      "description": "Online retailer of premium wines and champagnes"
+    },
+    {
+      "name": "Bunnings",
+      "discount": 2.0,
+      "description": "Hardware store chain offering home improvement and garden products"
+    },
+    {
+      "name": "BWS",
+      "discount": 5.0,
+      "description": "Beer, wine, and spirits retailer"
+    },
+    {
+      "name": "Cafe Choice",
+      "discount": 6.0,
+      "description": "Multi-venue cafe gift card accepted at various cafes"
+    },
+    {
+      "name": "City Beach",
+      "discount": 8.0,
+      "description": "Youth fashion retailer specializing in surf and street wear"
+    },
+    {
+      "name": "ClassBento",
+      "discount": 7.0,
+      "description": "Platform offering creative workshops and classes"
+    },
+    {
+      "name": "Clinique",
+      "discount": 7.0,
+      "description": "Premium skincare and cosmetics brand"
+    },
+    {
+      "name": "Cotton On",
+      "discount": 6.0,
+      "description": "Fast fashion retailer offering casual clothing and accessories"
+    },
+    {
+      "name": "Country Road",
+      "discount": 7.5,
+      "description": "Australian fashion brand known for modern classic clothing"
+    },
+    {
+      "name": "Dan Murphy's",
+      "discount": 5.0,
+      "description": "Large format liquor retailer with extensive range"
+    },
+    {
+      "name": "Doordash",
+      "discount": 5.0,
+      "description": "Food delivery service platform"
+    },
+    {
+      "name": "Dusk",
+      "discount": 10.0,
+      "description": "Retailer specializing in candles and home fragrance"
+    },
+    {
+      "name": "Dymocks",
+      "discount": 8.0,
+      "description": "Major Australian book retailer"
+    },
+    {
+      "name": "EB Games",
+      "discount": 8.0,
+      "description": "Video game and entertainment retailer"
+    },
+    {
+      "name": "eBay",
+      "discount": 3.0,
+      "description": "Online marketplace for new and used items"
+    },
+    {
+      "name": "Endota",
+      "discount": 10.0,
+      "description": "Australian spa and wellness chain"
+    },
+    {
+      "name": "Event Cinemas",
+      "discount": 7.0,
+      "description": "Major cinema chain offering movie screenings"
+    },
+    {
+      "name": "Flight Centre",
+      "discount": 3.0,
+      "description": "Travel agency offering holiday packages and flights"
+    },
+    {
+      "name": "Foot Locker",
+      "discount": 7.0,
+      "description": "Athletic footwear and sportswear retailer"
+    },
+    {
+      "name": "Forever New",
+      "discount": 8.0,
+      "description": "Women's fashion retailer focusing on feminine styles"
+    },
+    {
+      "name": "Freedom",
+      "discount": 7.5,
+      "description": "Furniture and home decor retailer"
+    },
+    {
+      "name": "Harris Farm",
+      "discount": 4.0,
+      "description": "Premium grocery store specializing in fresh produce"
+    },
+    {
+      "name": "Harvey Norman",
+      "discount": 3.5,
+      "description": "Electronics, furniture and home appliances retailer"
+    },
+    {
+      "name": "HelloFresh",
+      "discount": 7.0,
+      "description": "Meal kit delivery service"
+    },
+    {
+      "name": "Hotels.com",
+      "discount": 5.0,
+      "description": "Online hotel booking platform"
+    },
+    {
+      "name": "HOYTS",
+      "discount": 10.0,
+      "description": "Major cinema chain across Australia"
+    },
+    {
+      "name": "IKEA",
+      "discount": 5.0,
+      "description": "Swedish furniture retailer known for affordable home furnishings"
+    },
+    {
+      "name": "JB Hi-Fi",
+      "discount": 5.0,
+      "description": "Electronics and entertainment retailer"
+    },
+    {
+      "name": "Kathmandu",
+      "discount": 7.5,
+      "description": "Outdoor clothing and equipment retailer"
+    },
+    {
+      "name": "Kmart",
+      "discount": 5.0,
+      "description": "Discount department store offering affordable products"
+    },
+    {
+      "name": "Myer",
+      "discount": 5.0,
+      "description": "Premium department store offering fashion and homeware"
+    },
+    {
+      "name": "Officeworks",
+      "discount": 2.0,
+      "description": "Office supplies and stationery retailer"
+    },
+    {
+      "name": "Priceline",
+      "discount": 10.0,
+      "description": "Pharmacy chain offering health and beauty products"
+    },
+    {
+      "name": "Rebel",
+      "discount": 7.5,
+      "description": "Sporting goods and fitness equipment retailer"
+    },
+    {
+      "name": "Target",
+      "discount": 5.0,
+      "description": "Department store offering clothing and household items"
+    },
+    {
+      "name": "The Good Guys",
+      "discount": 5.0,
+      "description": "Home appliances and electronics retailer"
+    },
+    {
+      "name": "Uber Eats",
+      "discount": 4.0,
+      "description": "Food delivery service platform"
+    },
+    {
+      "name": "Woolworths",
+      "discount": 4.0,
+      "description": "Major supermarket chain offering groceries and household items"
+    }
+  ]
+}
